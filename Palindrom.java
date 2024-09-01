@@ -1,3 +1,4 @@
+// This is a Palindrom program
 import java.util.*;
 class Palindrom
 {
